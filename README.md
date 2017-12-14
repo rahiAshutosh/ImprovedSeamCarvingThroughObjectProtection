@@ -1,4 +1,4 @@
-# ImprovedSeamCarvingThroughObjectProtection
+﻿# ImprovedSeamCarvingThroughObjectProtection
 ----------------------------------------------------------------------------------------------------------------------------------------
 THIS PROJECT HAS BEEN DEVELOPED BY A COMBINED EFFORT OF :-
 1. AKANSHA AGARWAL, STUDENT, NIT SRINAGAR (IT).
@@ -6,7 +6,7 @@ THIS PROJECT HAS BEEN DEVELOPED BY A COMBINED EFFORT OF :-
 3. ASHUTOSH RAHI, STUDENT, NIT SRINAGAR (IT).
 UNDER THE GUIDANCE OF MS. PRERANA MUKHERJEE, Ph.D. RESEARCH SCHOLAR, IIT DELHI 
 ----------------------------------------------------------------------------------------------------------------------------------------
-AN ABSTRACT OF OUR PROJECT:-
+An abstract:-
 
 This project focuses on Content aware image resizing through object protection.
 The main purpose of Content-aware Image resizing is to resize an image to different sizes while retaining the integrity of objects in the image. 
